@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
         : "Persona rebuda: ${_personaRebuda!.nomComplet}";
 
     return Scaffold(
-      appBar: AppBar(title: const Text("PF2")),
+      appBar: AppBar(title: const Text("PMDM PRACTICA 2 FLUTTER")),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(16),
