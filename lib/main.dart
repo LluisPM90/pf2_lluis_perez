@@ -12,7 +12,7 @@ class Pf2App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PMDM PRACTICA 2 FLUTTER',
+      title: 'PF2',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: true),
       home: const HomePage(),
